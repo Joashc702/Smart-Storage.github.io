@@ -1,2 +1,2 @@
-# Smart-Storage.github.io
-Smart Storage Final Project for ECE5725
+# Etch-a-Sketch.github.io
+Etch-a-Sketch final project for ECE5730
